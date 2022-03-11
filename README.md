@@ -14,7 +14,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -30,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshot.png)
 
 ### Links
 
@@ -85,11 +84,11 @@ I want to createeven more beautiful website, that first challenge help me to cre
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me for the box-shadow in css.
-- [Example resource 2](https://developer.mozilla.org/en-US/) - This help me for understanding the fetch( ) method and window.onload.
+- [w3school](https://www.w3schools.com/) - This helped me for the box-shadow in css.
+- [mdn](https://developer.mozilla.org/en-US/) - This help me for understanding the fetch( ) method and window.onload.
 
 ## Author
 
-- Website - [Add your name here](http://blogdejojoffrey.fr/)
+- Website - [blog de jojoffrey](http://blogdejojoffrey.fr/)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/kanatos-kun)
-- Twitter - [@yourusername](https://twitter.com/Jojoffrey1)
+- Twitter - [@jojoffrey1](https://twitter.com/Jojoffrey1)
