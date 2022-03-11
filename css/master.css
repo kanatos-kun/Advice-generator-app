@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&family=Roboto:ital,wght@1,300&display=swap");
+
+body {
+  background: hsl(218, 23%, 16%);
+  font-family: "Manrope", sans-serif;
+  color: hsl(193, 38%, 86%);
+}
+
+.container {
+  background: hsl(217, 19%, 24%);
+  border-radius: 10px;
+  width: 475px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: auto;
+  margin-bottom: 30px;
+  margin-top: 150px;
+}
+
+.advice-number {
+  color: hsl(150, 100%, 66%);
+  letter-spacing: 10px;
+  font-weight: lighter;
+}
+
+.btn {
+  background: hsl(150, 100%, 66%);
+  border-radius: 50%;
+  display: block;
+  /* margin-left: 40%; */
+  padding: 15px 15px 15px 15px;
+  position: relative;
+  top: -55px;
+  margin: auto;
+  width: 20px;
+  height: 20px;
+}
+
+.btn:hover {
+  box-shadow: 0px 0px 40px hsl(150, 100%, 66%);
+}
+
+.btn:active {
+  box-shadow: 0px 0px 40px hsl(150, 100%, 66%);
+  animation: bumpButton 0.2s 2;
+  animation-direction: alternate;
+}
+
+.random-quote {
+  margin: 40px 0 40px;
+}
+
+@keyframes bumpButton {
+  0% {
+    padding: 15px 15px 15px 15px;
+  }
+  100% {
+    padding: 20px 20px 20px 20px;
+  }
+}
+
+/* @keyframes bumpButton{
+  from {
+    padding: 20px 20px 20px 20px;
+  }
+  to {
+    padding: 15px 15px 15px 15px;
+  }
+} */
+
+.btn > img {
+  position: relative;
+  right: 2px;
+}
+
+.center-image {
+  margin: auto;
+  margin-bottom: 30px;
+}

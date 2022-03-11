@@ -1,0 +1,9 @@
+@media only screen and (max-width: 520px) {
+  .container {
+    width: 300px;
+  }
+
+  .center-image {
+    content: url("../images/pattern-divider-mobile.svg");
+  }
+}
